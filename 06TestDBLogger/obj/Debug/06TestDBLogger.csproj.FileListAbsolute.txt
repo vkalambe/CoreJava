@@ -1,0 +1,12 @@
+E:\DotNET\DotNetDemos\06TestDBLogger\bin\Debug\06TestDBLogger.exe.config
+E:\DotNET\DotNetDemos\06TestDBLogger\bin\Debug\06TestDBLogger.exe
+E:\DotNET\DotNetDemos\06TestDBLogger\bin\Debug\06TestDBLogger.pdb
+E:\DotNET\DotNetDemos\06TestDBLogger\obj\Debug\06TestDBLogger.csprojResolveAssemblyReference.cache
+E:\DotNET\DotNetDemos\06TestDBLogger\obj\Debug\06TestDBLogger.exe
+E:\DotNET\DotNetDemos\06TestDBLogger\obj\Debug\06TestDBLogger.pdb
+D:\vishal\MAHESH SIR\DotNetDemos\06TestDBLogger\bin\Debug\06TestDBLogger.exe.config
+D:\vishal\MAHESH SIR\DotNetDemos\06TestDBLogger\obj\Debug\06TestDBLogger.exe
+D:\vishal\MAHESH SIR\DotNetDemos\06TestDBLogger\obj\Debug\06TestDBLogger.pdb
+D:\vishal\MAHESH SIR\DotNetDemos\06TestDBLogger\obj\Debug\06TestDBLogger.csprojResolveAssemblyReference.cache
+D:\vishal\MAHESH SIR\DotNetDemos\06TestDBLogger\bin\Debug\06TestDBLogger.exe
+D:\vishal\MAHESH SIR\DotNetDemos\06TestDBLogger\bin\Debug\06TestDBLogger.pdb
