@@ -1,0 +1,10 @@
+E:\Vishal_Apnil\TableColoumnLib\TableColoumnLib\bin\Debug\TableColoumnLib.dll
+E:\Vishal_Apnil\TableColoumnLib\TableColoumnLib\bin\Debug\TableColoumnLib.pdb
+E:\Vishal_Apnil\TableColoumnLib\TableColoumnLib\obj\Debug\TableColoumnLib.csprojResolveAssemblyReference.cache
+E:\Vishal_Apnil\TableColoumnLib\TableColoumnLib\obj\Debug\TableColoumnLib.dll
+E:\Vishal_Apnil\TableColoumnLib\TableColoumnLib\obj\Debug\TableColoumnLib.pdb
+E:\Vishal_Apnil\MyReflection\TableColoumnLib\bin\Debug\TableColoumnLib.dll
+E:\Vishal_Apnil\MyReflection\TableColoumnLib\bin\Debug\TableColoumnLib.pdb
+E:\Vishal_Apnil\MyReflection\TableColoumnLib\obj\Debug\TableColoumnLib.csprojResolveAssemblyReference.cache
+E:\Vishal_Apnil\MyReflection\TableColoumnLib\obj\Debug\TableColoumnLib.dll
+E:\Vishal_Apnil\MyReflection\TableColoumnLib\obj\Debug\TableColoumnLib.pdb
